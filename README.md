@@ -16,7 +16,7 @@ Este repositório tem como objetivo a resolução de exercícios sobre algoritmo
 ### Exercício 1 - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
 Dificuldade: Médio<br>
-Problema: [Non-overlapping Intervals](LINK DO GIT HUB DO EXERCICIO)<br>
+Problema: [Non-overlapping Intervals](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/1226ef5ad0c4c675c88b4bcf15635b8172094c58/Non-overlapping%20Intervals/Non-overlapping%20Intervals.md)<br>
 Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 ![](IMAGEM DO EXERCICIO FEITO)<br>
