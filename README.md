@@ -13,10 +13,10 @@
 Este repositório tem como objetivo a resolução de exercícios sobre algoritmos ambiciosos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do terceiro módulo Algoritmos Ambiciosos.
 
 ## Screenshots
-### Exercício 1 - [NOME DO EXERCICIO](LINK DO LEET CODE)
+### Exercício 1 - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
-Dificuldade: Difícil<br>
-Problema: [NOME DO EXERCICIO](LINK DO GIT HUB DO EXERCICIO)<br>
+Dificuldade: Médio<br>
+Problema: [Non-overlapping Intervals](LINK DO GIT HUB DO EXERCICIO)<br>
 Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 ![](IMAGEM DO EXERCICIO FEITO)<br>
