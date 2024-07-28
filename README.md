@@ -21,10 +21,10 @@ Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 ![](IMAGEM DO EXERCICIO FEITO)<br>
 
-### Exercício 2 - [NOME DO EXERCICIO](LINK DO LEET CODE)
+### Exercício 2 - [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings)
 
-Dificuldade: Médio<br>
-Problema: [NOME DO EXERCICIO](LINK DO GIT HUB DO EXERCICIO)<br>
+Dificuldade: Difícil<br>
+Problema: [Maximum Number of Non-Overlapping Substrings](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/0c5b8ef87d155545a23b84ca6e14e9d534e0a019/Non-overlapping%20Intervals/Non-overlapping%20Intervals.md)<br>
 Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 ![](IMAGEM DO EXERCICIO FEITO)<br>
