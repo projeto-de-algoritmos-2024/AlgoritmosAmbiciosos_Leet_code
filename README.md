@@ -29,10 +29,10 @@ Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 ![](IMAGEM DO EXERCICIO FEITO)<br>
 
-### Exercício 3 - [NOME DO EXERCICIO](LINK DO LEET CODE)
+### Exercício 3 - [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/)
 
 Dificuldade: Difícil<br>
-Problema: [NOME DO EXERCICIO](LINK DO GIT HUB DO EXERCICIO)<br>
+Problema: [Minimum Initial Energy to Finish Tasks](LINK DO GIT HUB DO EXERCICIO)<br>
 Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 ![](IMAGEM DO EXERCICIO FEITO)<br>
