@@ -29,10 +29,18 @@ Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 ![](IMAGEM DO EXERCICIO FEITO)<br>
 
-### Exercício 3 - [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/)
+### Exercício 3 - [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)
 
 Dificuldade: Difícil<br>
-Problema: [Minimum Initial Energy to Finish Tasks](LINK DO GIT HUB DO EXERCICIO)<br>
+Problema: [Minimum Initial Energy to Finish Tasks](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/8628d8561c8cf28d36dd8b6e951e2926f31b8fe4/Minimum%20Initial%20Energy%20to%20Finish%20Tasks/Minimum%20Initial%20Energy%20to%20Finish%20Tasks.md)<br>
+Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
+
+![](IMAGEM DO EXERCICIO FEITO)<br>
+
+### Exercício 4 - [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups)
+
+Dificuldade: Médio<br>
+Problema: [Divide Intervals Into Minimum Number of Groups](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/8628d8561c8cf28d36dd8b6e951e2926f31b8fe4/Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups/Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.md)<br>
 Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 ![](IMAGEM DO EXERCICIO FEITO)<br>
