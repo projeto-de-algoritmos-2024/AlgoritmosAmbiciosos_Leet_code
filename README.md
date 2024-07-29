@@ -19,7 +19,7 @@ Dificuldade: Médio<br>
 Problema: [Non-overlapping Intervals](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/1226ef5ad0c4c675c88b4bcf15635b8172094c58/Non-overlapping%20Intervals/Non-overlapping%20Intervals.md)<br>
 Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/6ff1b6a4d54a7f9900f8d604bd09c04b19d22ad8/Non-overlapping%20Intervals/Non-overlapping%20Intervals.py)<br>
 
-![](IMAGEM DO EXERCICIO FEITO)<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/5733442b0d1715f0dc6a1b0a1435b69f4d35c0c1/Assets/Media_1.png)<br>
 
 ### Exercício 2 - [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings)
 
