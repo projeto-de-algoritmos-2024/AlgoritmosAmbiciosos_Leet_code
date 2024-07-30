@@ -1,18 +1,19 @@
 from typing import List
+import heapq
 
 class Solution:
     def minGroups(self, intervals: List[List[int]]) -> int:
-        intervals.sort(key=lambda x: x[0])
+        events = []
+        for start, end in intervals:
+            events.append((start, 1))  
+            events.append((end + 1, -1))  
+        events.sort()
         
-        active_intervals = 0
-        min_groups = 0
+        max_groups = 0
+        current_groups = 0
         
-        for interval in intervals:
-            start, end = interval
-            if active_intervals == 0 or start > end:
-                min_groups += 1
-            else:
-                
-                active_intervals += 1
+        for _, event in events:
+            current_groups += event
+            max_groups = max(max_groups, current_groups)
         
-        return min_groups
+        return max_groups
