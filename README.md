@@ -27,7 +27,7 @@ Dificuldade: Difícil<br>
 Problema: [Maximum Number of Non-Overlapping Substrings](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/0c5b8ef87d155545a23b84ca6e14e9d534e0a019/Non-overlapping%20Intervals/Non-overlapping%20Intervals.md)<br>
 Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
-![](IMAGEM DO EXERCICIO FEITO)<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/65b2b38ebc9c65951b27d67d18f67ffadb701eca/Assets/Media_3.png)<br>
 
 ### Exercício 3 - [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)
 
