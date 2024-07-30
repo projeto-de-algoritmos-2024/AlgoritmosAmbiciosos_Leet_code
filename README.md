@@ -25,7 +25,7 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbi
 
 Dificuldade: Difícil<br>
 Problema: [Maximum Number of Non-Overlapping Substrings](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/0c5b8ef87d155545a23b84ca6e14e9d534e0a019/Non-overlapping%20Intervals/Non-overlapping%20Intervals.md)<br>
-Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/d195040c6f20c8c2637ff9cf717d26f5d42d3e9a/Maximum%20Number%20of%20Non-Overlapping%20Substrings/Maximum%20Number%20of%20Non-Overlapping%20Substrings.py)<br>
 
 ![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/65b2b38ebc9c65951b27d67d18f67ffadb701eca/Assets/Media_3.png)<br>
 
@@ -33,7 +33,7 @@ Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 Dificuldade: Difícil<br>
 Problema: [Minimum Initial Energy to Finish Tasks](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/8628d8561c8cf28d36dd8b6e951e2926f31b8fe4/Minimum%20Initial%20Energy%20to%20Finish%20Tasks/Minimum%20Initial%20Energy%20to%20Finish%20Tasks.md)<br>
-Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/a9af4148553ac0f522208d5e74355630bbd1a963/Minimum%20Initial%20Energy%20to%20Finish%20Tasks/Minimum%20Initial%20Energy%20to%20Finish%20Tasks.py)<br>
 
 ![image](https://github.com/user-attachments/assets/ce756b89-5db7-4e49-80a2-bf935f044fbf)
 <br>
@@ -42,7 +42,7 @@ Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 
 Dificuldade: Médio<br>
 Problema: [Divide Intervals Into Minimum Number of Groups](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/8628d8561c8cf28d36dd8b6e951e2926f31b8fe4/Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups/Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.md)<br>
-Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code/blob/a9af4148553ac0f522208d5e74355630bbd1a963/Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups/Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.py)<br>
 ![image](https://github.com/user-attachments/assets/36f92367-9c7b-4201-8078-00ef75715389)
 <br>
 
@@ -70,7 +70,7 @@ Codigo: [Solução](LINK DA SOLUÇÃO NO GIT-HUB)<br>
 **Obs.:** Faça isso para cada codigo.
 
 ## Outros 
-**Apresentação da resolução dos exercícios:**
+**Apresentação da resolução dos exercícios:** https://youtu.be/Xyuut0dukFY
 
 
 
